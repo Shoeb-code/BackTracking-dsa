@@ -9,10 +9,11 @@ This repository contains my daily practice of Backtracking   questions in Java.
 
 ## Progress
 
-| Leetcode_no | Problem Name | Difficulty |
-|-------------|--------------|------------|
-| 78          | Subset       | Medium     |
-| 39          |combination_sum       | Medium     |
+| Leetcode_no | Problem Name       | Difficulty |
+|-------------|--------------------|------------|
+| 78          | Subset             | Medium     |
+| 39          | combination_sum    | Medium     |
+| 40           | combination_sum II | Medium     |
 
 
 ## Language
